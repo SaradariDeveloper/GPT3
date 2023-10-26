@@ -1,5 +1,6 @@
 {
-  "name": "gpt3",
+  "homepage": "https://SaradariDeveloper.github.io/GPT3",
+  "name": "GPT3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
